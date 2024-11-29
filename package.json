@@ -33,7 +33,7 @@
   "dependencies": {
     "animate.css": "^3.7.2",
     "browser-sync-webpack-plugin": "^2.2.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery.formstyler": "^1.7.5-repackage",
     "owl.carousel": "^2.3.4",
     "select2": "^4.0.10"
